@@ -530,8 +530,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-- Name: Shanmukha Raghavendra Ravutu
-- Email: shanmukharaghavendra.r@gmail.com
+- Name: Sreekar Movva
+- Email: sreekarmovva@gmail.com
 
 ## 🙏 Acknowledgments
 
